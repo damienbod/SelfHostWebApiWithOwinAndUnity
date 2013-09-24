@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostWebApiOwin", "SelfHostWebApiOwin.Web\SelfHostWebApiOwin.csproj", "{92D0C667-7E54-4EDE-A369-7E3FF5C65F96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostWebApiOwin", "SelfHostWebApiOwin\SelfHostWebApiOwin.csproj", "{92D0C667-7E54-4EDE-A369-7E3FF5C65F96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostWebApiOwin.Business", "SelfHostWebApiOwin.Business\SelfHostWebApiOwin.Business.csproj", "{A3C9D0F8-27DB-4F2D-A91A-4D36F88C2DC7}"
 EndProject

@@ -85,9 +85,9 @@
       <Project>{a3c9d0f8-27db-4f2d-a91a-4d36f88c2dc7}</Project>
       <Name>SelfHostWebApiOwin.Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SelfHostWebApiOwin.Web\SelfHostWebApiOwin.csproj">
+    <ProjectReference Include="..\SelfHostWebApiOwin\SelfHostWebApiOwin.csproj">
       <Project>{92d0c667-7e54-4ede-a369-7e3ff5c65f96}</Project>
-      <Name>SelfHostWebApiOwin.Web</Name>
+      <Name>SelfHostWebApiOwin</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
